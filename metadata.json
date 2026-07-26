@@ -1,0 +1,6 @@
+{
+  "name": "Quantum Learning Assistant",
+  "description": "An AI-powered platform designed to help students understand quantum computing concepts through interactive learning, quizzes, and AI tutoring. Created by Manal Ijaz.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
