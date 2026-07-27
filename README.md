@@ -8,10 +8,12 @@ Many students find Quantum Mechanics and Quantum Computing difficult because the
 
 This application simplifies learning through AI-powered explanations, visual learning resources, and interactive quizzes.
 ## Live Demo
-https://quantum-focus.ai.studio
-## Live Demo
 
+Primary Deployment (Vercel):
 https://quantum-focus-black.vercel.app
+
+Original AI Studio Version:
+https://quantum-focus.ai.studio
 
 ## Features
 
@@ -70,6 +72,15 @@ Help students learn quantum mechanics and quantum computing.
 2. Navigate through the learning modules.
 3. Use the AI Tutor to ask quantum-related questions.
 4. Take quizzes to test your understanding.
+5. ### Run Locally
+
+git clone https://github.com/manalijaz111-pixel/Quantum-focus
+
+cd Quantum-focus
+
+npm install
+
+npm run dev
 ## Developer
 
 Manal Ijaz
