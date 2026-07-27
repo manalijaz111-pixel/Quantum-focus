@@ -9,6 +9,9 @@ Many students find Quantum Mechanics and Quantum Computing difficult because the
 This application simplifies learning through AI-powered explanations, visual learning resources, and interactive quizzes.
 ## Live Demo
 https://quantum-focus.ai.studio
+## Live Demo
+
+https://quantum-focus-black.vercel.app
 
 ## Features
 
